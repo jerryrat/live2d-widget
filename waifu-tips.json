@@ -1,7 +1,7 @@
 {
 	"mouseover": [{
 		"selector": "#waifu #live2d",
-		"text": ["Hey, what's up!", "The mouse...Oh, no!", "Any help?", "Zzzz, Mmmmm....", "Oh (ノ≧∇≦)ノ", "Have a nice day！", "May I have your phone number?", "Be happy!", "Kawaii!", "What can I do for you?", "Hentai！"]
+		"text": ["Hey, what's up!", "The mouse...Oh, no!", "Any help?", "Zzzz, Mmmmm....", "Oh (ノ≧?≦)ノ", "Have a nice day！", "May I have your phone number?", "Be happy!", "Kawaii!", "What can I do for you?", "Hentai！"]
 	}, {
 		"selector": "#waifu-tool .fa-comment",
 		"text": ["猜猜我要说些什么？", "我从青蛙王子那里听到了不少人生经验。"]
@@ -40,7 +40,7 @@
 		"text": ["翻页比较麻烦吗，那就来看看文章归档吧。", "文章目录都整理在这里啦！"]
 	}, {
 		"selector": ".menu-item-friends a",
-		"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
+		"text": ["这是我的朋友们哦ヾ(?°?°?)??", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
 	}, {
 		"selector": ".menu-item-search a",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
@@ -49,7 +49,7 @@
 		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".site-author",
-		"text": ["我家主人好看吗？", "这是我家主人(*´∇｀*)"]
+		"text": ["我家主人好看吗？", "这是我家主人(*′?｀*)"]
 	}, {
 		"selector": ".site-state",
 		"text": ["这是文章的统计信息～", "要不要点进去看看？"]
@@ -176,7 +176,7 @@
 	}],
 	"click": [{
 		"selector": "#waifu #live2d",
-		"text": ["是…是不小心碰到了吧…", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110 吗，这里有个变态一直在摸我(ó﹏ò｡)", "不要摸我了，我会告诉老婆来打你的！", "干嘛动我呀！小心我咬你！", "别摸我，有什么好摸的！"]
+		"text": ["Hi", "May I know your name?", "Where are you from?", "My I have your WhatsApp? ?●﹏●?", "Hey, would you kindly share your email?(ó﹏ò?)", "kawaii", "wowowowow...em......", "Call me!"]
 	}, {
 		"selector": ".veditor",
 		"text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
